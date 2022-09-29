@@ -1,0 +1,158 @@
+body {
+    font-family: 'News Cycle', sans-serif;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+div img.einstein{
+    height: 250px;
+    width: 180px;
+    float: left;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+
+.abouteinstein{
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    border-top: 8px solid grey;
+    margin: 50 0px;
+    float: left;
+    margin-right: 50px;
+    padding-left: 25px;
+}
+
+div img.tesla{
+    height: 250px;
+    width: 200px;
+    float: left;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+
+div img.isaac{
+    height: 250px;
+    width: 170px;
+    float: left;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+
+.aboutisaac{
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    border-top: 8px solid grey;
+    padding-left: 25px;
+    float: left;
+    margin-right: 50px;
+}
+
+
+.abouttesla{
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    border-top: 8px solid grey;
+    padding-left: 25px;
+    float: left;
+}
+
+.aboutisaac:hover {
+    border-top: 8px solid #0974b3;
+    margin-top: -15px;
+}
+.abouteinstein:hover {
+    border-top: 8px solid #0974b3;
+    margin-top: -15px;
+}
+.abouttesla:hover {
+    border-top: 8px solid #0974b3;
+    margin-top: -15px;
+}
+
+.box {
+    width: 300px;
+    height: 40px;
+    background: #0974b3;
+    margin-left: 40px;
+    margin-top: -5px;
+    text-align: center;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.box:hover {
+    width: 300px;
+    height: 40px;
+    background: #07486e;
+    text-align: center;
+    margin-left: 40px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    width: 300px;
+    height: 40px;
+}
+
+.zoom1{
+    background-color: black;
+    opacity: 0;
+    height: 250px;
+    width: 170px;
+    position: static;
+    margin-top: -600px;
+    margin-bottom: 150px;
+}
+.zoom1:hover{
+    background-color: black;
+    opacity: 0.3;
+    height: 250px;
+    width: 170px;
+    position: static;
+    margin-top: -600px;
+    margin-bottom: 170px;
+}
+.zoom2{
+    background-color: black;
+    opacity: 0;
+    height: 250px;
+    width: 180px;
+    position: static;
+    margin-top: -600px;
+    margin-bottom: 185px;
+}
+.zoom2:hover{
+    background-color: black;
+    opacity: 0.3;
+    height: 250px;
+    width: 180px;
+    position: static;
+    margin-top: -600px;
+    margin-bottom: 185px;
+}
+
+.zoom3{
+    background-color: black;
+    opacity: 0;
+    height: 250px;
+    width: 200px;
+    position: static;
+    margin-top: -600px;
+    margin-bottom: 185px;
+}
+.zoom3:hover{
+    background-color: black;
+    opacity: 0.3;
+    height: 250px;
+    width: 200px;
+    position: static;
+    margin-top: -600px;
+    margin-bottom: 185px;
+}
